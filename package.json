@@ -1,0 +1,24 @@
+{
+  "name": "log-viewer",
+  "version": "1.0.0",
+  "description": "ExpressJS for viewing logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidilen/log-viewer.git"
+  },
+  "author": "fidilen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fidilen/log-viewer/issues"
+  },
+  "homepage": "https://github.com/fidilen/log-viewer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
